@@ -1,6 +1,11 @@
 # Hello, I'm **Pasindu Wickramasuriya**! 👋
 
 I'm a passionate **Software Developer** and a tech enthusiast who loves solving problems, building exciting projects, and continuously learning new technologies. 🚀
+<p align="center">
+   <a href="https://github.com/pasinduwickramasuriya">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+👋;Pasindu+Wickramasuriya;Open+to+collaborations+and+internships!" alt="Typing SVG"/>
+   </a>
+</p>
 
 ---
 
