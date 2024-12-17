@@ -1,4 +1,4 @@
-# Hello, I'm **Pasindu Wickramasuriya**! 👋
+# Hello, I'm **Pasindu Wickramasuriya**! 
 
 I'm a passionate **Software Developer** and a tech enthusiast who loves solving problems, building exciting projects, and continuously learning new technologies. 🚀
 <p align="center">
