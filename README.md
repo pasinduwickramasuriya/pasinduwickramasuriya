@@ -1,4 +1,4 @@
-# Hi there, I'm **Pasindu Wickramasuriya**! 👋
+# Hello, I'm **Pasindu Wickramasuriya**! 👋
 
 I'm a passionate **Software Developer** and a tech enthusiast who loves solving problems, building exciting projects, and continuously learning new technologies. 🚀
 
@@ -6,7 +6,7 @@ I'm a passionate **Software Developer** and a tech enthusiast who loves solving 
 
 ### 💻 **About Me**
 
-- 🎓 I'm a **second-year student** at the **University of Moratuwa** pursuing an IT degree.
+- 🎓 I'm a **third-year student** at the **University of Moratuwa** pursuing an IT degree.
 - 🔭 **Currently Working On:** Room Booking System | React + Node.js + MongoDB
 - 🌱 **Learning:** Advanced React, JavaScript frameworks, and backend development with Node.js.
 - 📘 **Technologies I Use:**
@@ -67,9 +67,9 @@ Here are a few projects I've worked on:
 
 ### 📫 **How to Reach Me**
 
-- LinkedIn: [Pasindu Wickramasuriya](https://linkedin.com/in/pasindu)
-- GitHub: [@pasinduwickramasuriya](https://github.com/pasinduwickramasuriya)
-- Email: pasindu@example.com
+- LinkedIn: [Pasindu Wickramasuriya](www.linkedin.com/in/pasindu-sadhanjana-829869292)
+- GitHub: [@pasinduwickramasuriya]([https://github.com/pasinduwickramasuriya](https://github.com/pasinduwickramasuriya))
+- Email: pasindusadanjana17@gmail.com
 
 ---
 
@@ -78,10 +78,10 @@ Here are a few projects I've worked on:
 Feel free to reach out to me for **collaborations, open-source projects, internships, or just to say hi**! 🤝
 
 <p align="center">
-   <a href="https://linkedin.com/in/pasindu">
+   <a href="www.linkedin.com/in/pasindu-sadhanjana-829869292">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
    </a>
-   <a href="mailto:pasindu@example.com">
+   <a href="mailto:pasindusadanjana17@gmail.com">
       <img src="https://img.shields.io/badge/Email-Send%20a%20Message-red?style=for-the-badge&logo=gmail" alt="Email"/>
    </a>
 </p>
