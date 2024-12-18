@@ -1,6 +1,6 @@
-# Hello, I'm **Pasindu Wickramasuriya**! 👋
+# Hello, I'm **Pasindu Wickramasuriya**! 
 
-A passionate **Software Developer**, tech enthusiast, and problem solver who loves building exciting projects, collaborating with teams, and continuously learning new technologies. 🚀
+A passionate **Software Developer**, tech enthusiast, and problem solver who loves building exciting projects, collaborating with teams, and continuously learning new technologies. 
 
 <p align="center">
    <a href="https://github.com/pasinduwickramasuriya">
@@ -10,7 +10,7 @@ A passionate **Software Developer**, tech enthusiast, and problem solver who lov
 
 ---
 
-### 💻 **About Me**
+###  **About Me**
 
 - 🎓 I'm a **third-year student** at the **University of Moratuwa**, pursuing an IT degree.
 - 🔭 **Currently Working On:** Room Booking System | React + Node.js + MongoDB.
