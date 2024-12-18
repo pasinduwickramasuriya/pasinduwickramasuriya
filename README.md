@@ -95,19 +95,14 @@ A passionate **Software Developer**, tech enthusiast, and problem solver who lov
    </a>
 
    <div align="center">
-  <h2>🎮 Play Tetris While You Visit! 🎮</h2>
+  <h2>🎮 Play an Interactive Game! 🎮</h2>
   <br>
-  <iframe
-    src="https://tetr.io/"
-    title="Tetris Game"
-    width="800"
-    height="600"
-    frameborder="0"
-    allowfullscreen
-    style="border: 2px solid #000; border-radius: 8px;">
-  </iframe>
+  <a href="https://your-game-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20to%20Play-Green?style=for-the-badge" alt="Game Link">
+  </a>
   <br/><br/><br/>
 </div>
+
 
 </p>
 
