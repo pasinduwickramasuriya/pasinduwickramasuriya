@@ -93,8 +93,8 @@ A passionate **Software Developer**, tech enthusiast, and problem solver who lov
    <a href="https://github.com/pasinduwickramasuriya">
       <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
    </a>
-</p>
-<div align="center">
+
+   <div align="center">
   <h2>🎮 Play Tetris While You Visit! 🎮</h2>
   <br>
   <iframe
@@ -108,6 +108,9 @@ A passionate **Software Developer**, tech enthusiast, and problem solver who lov
   </iframe>
   <br/><br/><br/>
 </div>
+
+</p>
+
 
 
 ---
