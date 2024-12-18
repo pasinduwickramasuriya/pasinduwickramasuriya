@@ -1,9 +1,10 @@
 # Hello, I'm **Pasindu Wickramasuriya**! 
 
 I'm a passionate **Software Developer** and a tech enthusiast who loves solving problems, building exciting projects, and continuously learning new technologies. 🚀
+
 <p align="center">
    <a href="https://github.com/pasinduwickramasuriya">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+👋;Pasindu+Wickramasuriya;Open+to+collaborations+and+internships!" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Pasindu+Wickramasuriya;Always+Coding+Something+Awesome!;Open+to+Collaboration+and+Internships!" alt="Typing SVG"/>
    </a>
 </p>
 
@@ -58,6 +59,17 @@ Here are a few projects I've worked on:
 
 ---
 
+### 🎮 **Interactive Puzzle Animation**
+<p align="center">
+   <a href="https://github.com/pasinduwickramasuriya">
+      <img src="https://user-images.githubusercontent.com/12345678/animation_example.gif" alt="Interactive Puzzle Game Animation" width="500"/>
+   </a>
+   <br>
+   *Click the puzzle pieces to solve the challenge!*
+</p>
+
+---
+
 ### 📊 **GitHub Stats**
 
 <p align="center">
@@ -70,27 +82,7 @@ Here are a few projects I've worked on:
 
 ---
 
-### 🌐 **Interactive Widgets**
-
-<p align="center">
-   <a href="https://github.com/pasinduwickramasuriya">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!+👋;I+build+cool+stuff+with+React;Open+to+collaborations+and+internships!" alt="Typing SVG"/>
-   </a>
-</p>
-
----
-
 ### 📫 **How to Reach Me**
-
-- LinkedIn: [Pasindu Wickramasuriya](https://www.linkedin.com/in/pasindu-sadhanjana-829869292)
-- GitHub: [@pasinduwickramasuriya](https://github.com/pasinduwickramasuriya)
-- Email: pasindusadanjana17@gmail.com
-
----
-
-### 🌟 **Let's Connect**
-
-Feel free to reach out to me for **collaborations, open-source projects, internships, or just to say hi**! 🤝
 
 <p align="center">
    <a href="https://www.linkedin.com/in/pasindu-sadhanjana-829869292">
@@ -98,6 +90,9 @@ Feel free to reach out to me for **collaborations, open-source projects, interns
    </a>
    <a href="mailto:pasindusadanjana17@gmail.com">
       <img src="https://img.shields.io/badge/Email-Send%20a%20Message-red?style=for-the-badge&logo=gmail" alt="Email"/>
+   </a>
+   <a href="https://github.com/pasinduwickramasuriya">
+      <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
    </a>
 </p>
 
