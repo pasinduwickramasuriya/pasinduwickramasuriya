@@ -94,6 +94,21 @@ A passionate **Software Developer**, tech enthusiast, and problem solver who lov
       <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
    </a>
 </p>
+<div align="center">
+  <h2>🎮 Play Tetris While You Visit! 🎮</h2>
+  <br>
+  <iframe
+    src="https://tetr.io/"
+    title="Tetris Game"
+    width="800"
+    height="600"
+    frameborder="0"
+    allowfullscreen
+    style="border: 2px solid #000; border-radius: 8px;">
+  </iframe>
+  <br/><br/><br/>
+</div>
+
 
 ---
 
